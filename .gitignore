@@ -1,0 +1,13 @@
+utils/__pycache__/
+resources/cache/
+venv
+GFiles-86281758b9d4.json
+#gfiles-app-gevir-bb76a90c0275.json
+utils/test_file_test.py
+utils/train_spanish_tag.py
+utils/taggers.py
+.idea
+utils/test_file.py
+.vscode/
+utils/1
+#extraerDatos/formatos/escriturasDePruebas/*.txt
