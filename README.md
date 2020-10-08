@@ -3,7 +3,7 @@ The input files maybe can be pdf or images files with a restriction 6 pages.
 
 Como funciona?:
 1. Clonar el repositorio
-2. ejecutar en la carpeta del repositorio clonado el comando: php7.3 -S localhost:8887 para arrancar un servidor de desarrollo en PHP
+2. ejecutar en la carpeta del repositorio clonado el comando: php -S localhost:8887 para arrancar un servidor de desarrollo en PHP
 3. Una vez iniciado el server, entrar a la url: http://localhost:8887/test.php?escritura=1&op=textoOcr
 esto mostrará el texto como lo extrae el OCR de las escrituras escaneadas en PDF.
 4. entrar a la url http://localhost:8887/test.php?escritura=1  esto mostrará la informacion extraida que se necesita en el proyecto. esta informacion son:
